@@ -1,0 +1,67 @@
+html {
+    background-color: #c3c3c3;
+    font-size: 20px;
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #dcfffb;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #c3c3c3;
+    text-shadow: 3px 3px 1px black;
+    font-size: 50px;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+#립버전 {
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#funny {
+    height: 100px;
+    width: auto;
+    display: inline;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    /* margin: 0 auto; */
+    vertical-align: middle;
+}
+
+#Change-user {
+    font-size: 25px;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+    /* display: block; */
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    vertical-align: middle;
+    /* margin: 0 auto; */
+    color: rgb(93, 150, 139);
+    background-color: azure;
+}
+
+.emphasis-class:hover {
+    color: blue;
+}
